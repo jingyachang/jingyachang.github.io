@@ -16,7 +16,7 @@ Educational background
 ======
 1. August 2015 to September 2018, a PhD from the Hong Kong Polytechnic University
 1. September 2006 to June 2009, a Master's degree from Nanjing Normal University
-1. September 2002 to July 2016, a Bachelor's degree from Henan Normal University
+1. September 2002 to July 2006, a Bachelor's degree from Henan Normal University
 
 Work experience
 ======
