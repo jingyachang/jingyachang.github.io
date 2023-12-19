@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guangdong University of Technology"
+  #name             : "Guangdong University of Technology"
   avatar           : "picture1.png"
   #bio              : "Guangdong University of Technology"
   #location         : "Guangzhou, China"
