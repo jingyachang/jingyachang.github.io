@@ -39,6 +39,6 @@ Main Publications
 
 Research projects
 =====
-1. National Natural Science Foundation of China Youth Science Fund Project, 11901118, Research on a Class of Tensor Optimization Methods in Data Clustering Problems, January 2020 to December 2022, hosted
-1. National Natural Science Foundation of China, General Project， 62073087, High Order Tensor Ring Low Rank Decomposition Theory and Applications, January 2021 to December 2024, Participated
-1. Guangdong University of Technology Youth Hundred Person Research Launch Project, Calculation and Application of Tensor Optimization Problems, April 2019 to April 2024, hosted
+1. National Natural Science Foundation of China Youth Science Fund Project, 11901118, Research on a Class of Tensor Optimization Methods in Data Clustering Problems, January 2020 to December 2022, hosted.
+1. National Natural Science Foundation of China, General Project，62073087, High Order Tensor Ring Low Rank Decomposition Theory and Applications, January 2021 to December 2024, participated.
+1. Guangdong University of Technology Youth Hundred Person Research Launch Project, Calculation and Application of Tensor Optimization Problems, April 2019 to April 2024, hosted.
