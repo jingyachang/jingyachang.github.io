@@ -25,7 +25,7 @@ Work experience
 
 Main Publications
 ======
-1. Chang, J., Liu, D., & Xi, M. (2023). A gradient projection method for semi-supervised hypergraph clustering problems. Submitted.[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+1. Chang, J., Liu, D., & Xi, M. (2023). A gradient projection method for semi-supervised hypergraph clustering problems. Submitted.[Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/paper1.pdf)
 1. Zhang, X., Chang, J., & Sheng, Z. (2023). A family of conjugate gradient methods with Householder transform for computing and its application to hypergraph partitioning. Submitted.
 1. Feng, L., Zhou, G., & Chang, J. (2023). An adaptive weighted self-representation method for incomplete multi-view clustering. arXiv preprint arXiv:2302.05563.
 1. Chang, J., Xiao, B., & Zhang, X. (2023). A tensor optimization algorithm for computing Lagrangians of hypergraphs. Journal of Optimization Theory and Applications, accepted.
