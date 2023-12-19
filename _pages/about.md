@@ -25,7 +25,17 @@ Work experience
 
 Main Publications
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Chang, J., Liu, D., & Xi, M. (2023). A gradient projection method for semi-supervised hypergraph clustering problems. Submitted.
+1. Zhang, X., Chang, J., & Sheng, Z. (2023). A family of conjugate gradient methods with Householder transform for computing and its application to hypergraph partitioning. Submitted.
+1. Feng, L., Zhou, G., & Chang, J. (2023). An adaptive weighted self-representation method for incomplete multi-view clustering. arXiv preprint arXiv:2302.05563.
+1. Chang, J., Xiao, B., & Zhang, X. (2023). A tensor optimization algorithm for computing Lagrangians of hypergraphs. Journal of Optimization Theory and Applications, accepted.
+1. Chang, J., & Zhu, Z. (2023). An adaptive cubic regularization algorithm for computing H-and Z-eigenvalues of real even-order supersymmetric tensors. Journal of Computational and Applied Mathematics, 115195.
+1. Zhu, Z., & Chang, J. (2022). Solving the Adaptive Cubic Regularization Sub-Problem Using the Lanczos Method. Symmetry, 14(10), 2191.
+1. Chang, J., Chen, Y., Qi, L., & Yan, H. (2020). Hypergraph clustering using a new laplacian tensor with applications in image processing. SIAM Journal on Imaging Sciences, 13(3), 1157-1178.
+1. Chen, Y., & Chang, J. (2020). A trust region algorithm for computing extreme eigenvalues of tensors. Numerical Algebra, Control and Optimization, 10(4), 475-485.
+1. Chang, J., Ding, W., Qi, L., & Yan, H. (2018). Computing the p-spectral radii of uniform hypergraphs with applications. Journal of Scientific Computing, 75, 1-25.
+1. Chang, J., Chen, Y., & Qi, L. (2016). Computing eigenvalues of large scale sparse tensors arising from a hypergraph. SIAM Journal on Scientific Computing, 38(6), A3618-A3643.
+1. Chang, J., Sun, W., & Chen, Y. (2010). A modified Newton’s method for best rank-one approximation to tensors. Applied Mathematics and Computation, 216(6), 1859-1867.
 
 Research projects
 =====
