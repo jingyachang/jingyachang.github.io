@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a master's supervisor at the School of Mathematics and Statistics, [Guangdong University of Technology](https://www.gdut.edu.cn/). The main research directions are nonlinear optimization, tensor optimization, and their applications in image processing and machine learning. Multiple papers have been published in SCI journals such as SIAM Journal on Scientific Computing, SIAM Journal on Imaging Sciences, Journal of Scientific Computing, Journal of Computational and Applied Mathematics, and have served as reviewers for SCI journals such as IEEE Transactions on Neural Networks and Learning Systems, Journal of Industrial and Management Optimization.
 
-[Email](mailto:jychang@gdut.edu.cn) / [Github](https://github.com/QiuDi233)
+[Email](mailto:jychang@gdut.edu.cn) / [Github]([https://github.com/jingyachang)
 
 A data-driven personal website
 ======
