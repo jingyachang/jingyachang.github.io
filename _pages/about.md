@@ -14,14 +14,14 @@ I am currently a master's supervisor at the School of Mathematics and Statistics
 
 Educational background
 ======
-1. August 2015 to September 2018, a PhD from the Hong Kong Polytechnic University
-1. September 2006 to June 2009, a Master's degree from Nanjing Normal University
-1. September 2002 to July 2006, a Bachelor's degree from Henan Normal University
+1. August 2015 to September 2018, a PhD from the Hong Kong Polytechnic University.
+1. September 2006 to June 2009, a Master's degree from Nanjing Normal University.
+1. September 2002 to July 2006, a Bachelor's degree from Henan Normal University.
 
 Work experience
 ======
-1. From September 2019 to present, lecturer at Guangdong University of Technology
-1. From November 2018 to March 2019, worked as a research assistant at City University of Hong Kong
+1. From September 2019 to present, lecturer at Guangdong University of Technology.
+1. From November 2018 to March 2019, worked as a research assistant at City University of Hong Kong.
 
 Main Publications
 ======
