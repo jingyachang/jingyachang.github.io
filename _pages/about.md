@@ -36,7 +36,8 @@ Main Publications
 1. Chang, J., Ding, W., Qi, L., & Yan, H. (2018). Computing the p-spectral radii of uniform hypergraphs with applications. Journal of Scientific Computing, 75, 1-25.[Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/paper9.pdf)
 1. Chang, J., Chen, Y., & Qi, L. (2016). Computing eigenvalues of large scale sparse tensors arising from a hypergraph. SIAM Journal on Scientific Computing, 38(6), A3618-A3643.[Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/paper10.pdf)
 1. Chang, J., Sun, W., & Chen, Y. (2010). A modified Newton’s method for best rank-one approximation to tensors. Applied Mathematics and Computation, 216(6), 1859-1867.[Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/paper11.pdf)
-1. 
+1. Cui, X., & Chang, J. (2024). Hyperspectral super-resolution via  low rank tensor triple decomposition. Journal of Industrial and Management Optimization, 20(3), 942-966. [Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/AIMS_template.pdf)/[code](https://github.com/jingyachang/Hyperspectral-super-resolution-via-low-rank-tensor-triple-decomposition)
+1. Sheng, X., Yang, L., & Chang, J., Weighted structure tensor total variation for image denoising. Journal of Electronic Imaging, 30(1), 013049. [Download paper here](https://github.com/jingyachang/jingyachang.github.io/blob/master/_paper/Sheng.pdf)/[code](https://github.com/jingyachang/Weighted-structure-tensor-total-variation-for-image-denoising)
 
 Research projects
 =====
